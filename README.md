@@ -526,6 +526,29 @@ Open in browser:
 ```
 
 ---
+---
+
+## Demo Login Credentials
+
+Use the following demo accounts to explore the application.
+
+### 👨‍💼 Employee Login
+
+| Field | Value |
+|-------|-------|
+| **Employee ID** | `EMP010` |
+| **Password** | `Akash@#1234` |
+
+### 👨‍💼 Admin Login
+
+| Field | Value |
+|-------|-------|
+| **Admin ID** | `ADMIN_01` |
+| **Password** | `AdminPass123!` |
+
+> **Note:** These are demo credentials provided for testing the application through GitHub. They are intended only for demonstration purposes.
+
+---
 
 ## Future Enhancements
 
